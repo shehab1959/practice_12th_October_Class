@@ -45,3 +45,17 @@ print("Ok")
 for i in range(1,11,2):
     print(i**3) #(1)1,(3)27,(5)125,(7)343,(9)729.
 print("Donee")
+
+
+
+##
+for number in range(1,14,2):
+    print(f"Number {number}, Square of ={number**2}")
+
+#Number 1, Square of =1
+#Number 3, Square of =9
+#Number 5, Square of =25
+#Number 7, Square of =49
+#Number 9, Square of =81
+#Number 11, Square of =121
+#Number 13, Square of =169
